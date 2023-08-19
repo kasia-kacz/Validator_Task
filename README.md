@@ -1,4 +1,4 @@
-# Validator
+# Validator_Task
 
 Program do walidacji harmonogramu czasu pracy.
 
@@ -17,10 +17,11 @@ Stosowane biblioteki i moduły:
 
 ## Uruchomienie programu
 
-  1. Pobranie programu z GitHub (https://github.com/kasia-kacz/Validator.git)
-  2. Aktywacja wirtualnego środowiska uruchomieniowego (sciezka_do_projektu/validator/venv/Scripts/activate)
-  3. Uruchomienie programu (./main.py)
-  4. Uruchomienie testów (./tests/run_tests.py)
+  1. Pobranie programu z GitHub (git clone https://github.com/kasia-kacz/Validator_Task.git)
+  2. Pobranie interpretera Python (najlepiej w wersji 3.8 lub wyższej)
+  3. Import niezbędnych bibliotek z pliku requirements.txt (pip install -r requirements.txt)
+  4. Uruchomienie programu (python main.py)
+  5. Uruchomienie testów - z folderu ./tests (python run_tests.py)
 
 ## Założenia
 
