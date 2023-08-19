@@ -34,4 +34,4 @@ W celu realizacji wymagań założono, że każdy dzień pracy rozpoczyna się o
 3. Na podstawie konkretnego roku i miesiąca ustalane są dni tygodnia dla odpowiednich dni danego miesiąca
 4. Aby zmienić wczytywany plik z danymi należy zmienić zmienną 'filename' w module 'main.py'
 5. Wszystkie testy oraz dane potrzebne do przeprowadzenia testów jednostkowych zapisane są w folderze ./tests
-6. Aby przeprowadzić wszystkie testy wystarczy uruchomić skrypt ./tests/run_tests.py
+6. Aby przeprowadzić wszystkie testy wystarczy uruchomić skrypt run_tests.py
